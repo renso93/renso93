@@ -8,9 +8,9 @@ J'apprends en construisant : des projets concrets et réels, en commençant peti
 - - 💻 Je code depuis Termux (Android) et un Dell Latitude 3550 aux ressources limitées — la contrainte comme moteur de rigueur
 - - 📈 Toujours en progression, un projet à la fois
      
-      - **Stack :**
+- **Stack :**
      
-  - 
+ 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
  
 
