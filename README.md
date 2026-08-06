@@ -5,12 +5,13 @@ J'apprends en construisant : des projets concrets et réels, en commençant peti
 
 - 💡 Focus actuel : transformer chaque notion apprise en petit projet fonctionnel
 - - 🧩 Stack principale : Python (Flask, FastAPI, Django, Tkinter), PostgreSQL/SQLite, HTML/CSS/JS
-  - - 💻 Je code depuis Termux (Android) et un Dell Latitude 3550 aux ressources limitées — la contrainte comme moteur de rigueur
-    - - 📈 Toujours en progression, un projet à la fois
+- - 💻 Je code depuis Termux (Android) et un Dell Latitude 3550 aux ressources limitées — la contrainte comme moteur de rigueur
+- - 📈 Toujours en progression, un projet à la fois
      
       - **Stack :**
      
-  - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+  - 
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
  
 
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
